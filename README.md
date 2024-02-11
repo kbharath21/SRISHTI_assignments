@@ -1,4 +1,4 @@
-# SRISTI_assignment_1
+# SRISHTI_assignment_1
 
 
 # Coffee Shop People Count Maintenance
