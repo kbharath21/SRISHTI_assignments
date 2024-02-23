@@ -1,5 +1,5 @@
 # SRISHTI24: 
-My Research and Submissions for the IIIT-H SRISHTI24 under mentor C.K. Raju Sir
+My Research and Submissions for the IIIT-H SRISHTI24
 
 Llama 2 Fine-Tuning Guide
 
