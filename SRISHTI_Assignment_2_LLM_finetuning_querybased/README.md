@@ -1,6 +1,9 @@
-# SRISHTI24: Llama 2 Fine-Tuning Guide
+# SRISHTI24: 
+My Research and Submissions for the IIIT-H SRISHTI24 under mentor C.K. Raju Sir
 
-Welcome to the Llama 2 Fine-Tuning Guide by SRISHTI24! This comprehensive guide will walk you through the process of fine-tuning the Llama 2 model for your specific task. Whether you're a researcher, developer, or enthusiast, this guide will equip you with the knowledge and tools to optimize the Llama 2 model to meet your needs.
+Llama 2 Fine-Tuning Guide
+
+Welcome to the Llama 2 Fine-Tuning Guide ! This comprehensive guide will walk you through the process of fine-tuning the Llama 2 model for your specific task. Whether you're a researcher, developer, or enthusiast, this guide will equip you with the knowledge and tools to optimize the Llama 2 model to meet your needs.
 
 ## Overview
 
@@ -11,7 +14,7 @@ The Llama 2 Fine-Tuning Guide provides step-by-step instructions for fine-tuning
 ### 1. Install Required Packages
 
 Ensure all necessary packages are installed by running the provided command in your Python environment. These packages include essential libraries for machine learning and natural language processing tasks.
-
+ 
 ### 2. Import Libraries
 
 Import the required libraries into your Python environment to enable access to key functionalities and modules needed for fine-tuning the Llama 2 model.
@@ -35,8 +38,3 @@ Reformat your instruction dataset to adhere to the specified prompt template use
 
 Utilize the text generation pipeline to interact with the fine-tuned Llama 2 model. Generate responses to prompts and evaluate the model's performance in real-world scenarios.
 
-## Get Started
-
-Ready to fine-tune the Llama 2 model? Follow the steps outlined in this guide to unlock the full potential of this powerful language model. Get ready to explore new possibilities in natural language processing and machine learning!
-
-**Repository Link:** [SRISHTI24 - Large-Language-Models](https://github.com/Manoj010104/SRISHTI24/tree/main/Large-Language-Models)
